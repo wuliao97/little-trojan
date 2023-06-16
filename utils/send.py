@@ -1,7 +1,6 @@
 from config import webhook_url
 import json
 import requests
-from urllib.request import Request, urlopen
 
 
 
